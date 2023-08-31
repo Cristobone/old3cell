@@ -1,0 +1,23 @@
+body {
+    background: pink;
+    padding: 20px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+td.black {
+    background: #001f3f;
+}
+
+td.white {
+    background: gray;
+}
